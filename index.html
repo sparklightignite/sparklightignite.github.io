@@ -1,0 +1,56 @@
+﻿<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Spark Light Ignite Studios</title>
+  <meta name="description" content="Cinematic stories, bold visuals, and imaginative worlds. Spark Light Ignite Studios specializes in films, trailers, ads, animation, and visual experiments." />
+  <link rel="icon" href="favicon.ico" sizes="any" />
+  <link rel="icon" href="favicon.svg" type="image/svg+xml" />
+  <link rel="apple-touch-icon" href="apple-touch-icon.png" />
+  <link rel="stylesheet" href="site.css" />
+  <script src="site-header.js" defer></script>
+</head>
+<body class="home">
+  <div id="site-header"></div>
+
+  <main class="wrap">
+    <section class="hero">
+      <p class="tagline">Cinematic stories, bold visuals, and imaginative worlds. Spark Light Ignite Studios specializes in films, trailers, ads, animation, and visual experiments.</p>
+    </section>
+
+    <section class="video-work" aria-label="Portfolio">
+      <div class="section-kicker">Portfolio</div>
+      <div class="video-grid" id="youtube-videos" data-channel-id="UCQpAC3qn9g2jPInA3J-xAbQ" aria-live="polite">
+        <div class="video-loading">Loading recent videos...</div>
+      </div>
+      <div class="video-actions">
+        <a class="button-link" href="https://www.youtube.com/@SparkLightIgniteStudios/videos" target="_blank" rel="noopener">View all videos on YouTube</a>
+      </div>
+      <script src="app.js" defer></script>
+    </section>
+
+    <div class="video-player-modal" id="video-player-modal" aria-hidden="true">
+      <div class="video-player-backdrop" data-close-video></div>
+      <div class="video-player-dialog" role="dialog" aria-modal="true" aria-labelledby="video-player-title">
+        <button class="video-player-close" type="button" data-close-video aria-label="Close video player">×</button>
+        <div class="video-player-frame-wrap" id="video-player-frame-wrap"></div>
+        <div class="video-player-info">
+          <h2 id="video-player-title">Spark Light Ignite video</h2>
+          <a class="button-link secondary" id="video-player-youtube" href="https://www.youtube.com/@SparkLightIgniteStudios/videos" target="_blank" rel="noopener">Open on YouTube</a>
+        </div>
+      </div>
+    </div>
+  </main>
+
+  <footer>
+    <div class="wrap footer-wrap">
+      <div>&copy; 2026 Spark Light Ignite Studios. All rights reserved.</div>
+      <nav class="footer-links" aria-label="Footer navigation">
+        <a href="privacy-policy/">Privacy Policy</a>
+        <a href="terms-of-service/">Terms of Service</a>
+      </nav>
+    </div>
+  </footer>
+</body>
+</html>
