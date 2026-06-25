@@ -1,0 +1,137 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Contact Spark Light Ignite Studios</title>
+  <meta name="description" content="Contact Spark Light Ignite Studios." />
+  <link rel="icon" href="favicon.ico" sizes="any" />
+  <link rel="icon" href="favicon.svg" type="image/svg+xml" />
+  <link rel="apple-touch-icon" href="apple-touch-icon.png" />
+  <link rel="stylesheet" href="site.css" />
+  <script src="site-header.js" defer></script>
+  <style>
+    .contact-panel {
+      margin: 42px auto 58px;
+      padding: 34px;
+      border: 1px solid rgba(245, 182, 66, .26);
+      border-radius: 24px;
+      background: linear-gradient(180deg, rgba(245, 182, 66, .10), rgba(255, 255, 255, .03));
+      box-shadow: 0 22px 70px rgba(0, 0, 0, .34);
+    }
+
+    .contact-panel h1 {
+      text-align: center;
+    }
+
+    .contact-intro {
+      max-width: 660px;
+      margin: 0 auto 28px;
+      text-align: center;
+    }
+
+    .contact-form {
+      max-width: 620px;
+      margin: 0 auto;
+    }
+
+    .contact-form label {
+      display: block;
+      margin: 0 0 8px;
+      color: #f5f0e8;
+      font-weight: 700;
+    }
+
+    .contact-form input,
+    .contact-form textarea {
+      width: 100%;
+      margin: 0 0 18px;
+      padding: 12px 14px;
+      border: 1px solid rgba(245, 182, 66, .32);
+      border-radius: 12px;
+      color: #f5f0e8;
+      background: rgba(0, 0, 0, .36);
+      font: inherit;
+    }
+
+    .contact-form textarea {
+      min-height: 160px;
+      resize: vertical;
+    }
+
+    .contact-form input:focus,
+    .contact-form textarea:focus {
+      border-color: #f5b642;
+      outline: 3px solid rgba(245, 182, 66, .18);
+    }
+
+    .contact-form button {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      width: 100%;
+      min-height: 48px;
+      padding: 0 20px;
+      border: 1px solid rgba(245, 182, 66, .58);
+      border-radius: 999px;
+      color: #080706;
+      background: #f5b642;
+      cursor: pointer;
+      font: inherit;
+      font-weight: 700;
+    }
+
+    .contact-form button:hover,
+    .contact-form button:focus-visible {
+      background: #ffd37a;
+      outline: none;
+    }
+
+    .hidden-field {
+      position: absolute;
+      left: -9999px;
+      opacity: 0;
+      pointer-events: none;
+    }
+  </style>
+</head>
+<body>
+  <div id="site-header"></div>
+
+  <main class="content-wrap">
+    <section class="contact-panel" aria-labelledby="contact-title">
+      <h1 id="contact-title">Contact Spark Light Ignite Studios</h1>
+      <p class="contact-intro">Send us a message and we’ll get back to you as soon as possible.</p>
+
+      <form class="contact-form" action="https://api.web3forms.com/submit" method="POST">
+        <input type="hidden" name="access_key" value="cf1d1a46-7723-48e4-bd82-18371d15d4d7" />
+        <input type="hidden" name="subject" value="New Spark Light Ignite Studios contact form submission" />
+        <input type="hidden" name="from_name" value="Spark Light Ignite Studios Website" />
+
+        <label for="name">Name</label>
+        <input id="name" type="text" name="name" autocomplete="name" required />
+
+        <label for="email">Email</label>
+        <input id="email" type="email" name="email" autocomplete="email" required />
+
+        <label for="message">Message</label>
+        <textarea id="message" name="message" required></textarea>
+
+        <input class="hidden-field" type="checkbox" name="botcheck" tabindex="-1" autocomplete="off" />
+
+        <button type="submit">Send Message</button>
+      </form>
+    </section>
+  </main>
+
+  <footer>
+    <div class="wrap footer-wrap">
+      <div>&copy; 2026 Spark Light Ignite Studios. All rights reserved.</div>
+      <nav class="footer-links" aria-label="Footer navigation">
+        <a href="privacy-policy/">Privacy Policy</a>
+        <a href="terms-of-service/">Terms of Service</a>
+      </nav>
+    </div>
+  </footer>
+</body>
+</html>
