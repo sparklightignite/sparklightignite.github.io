@@ -1,8 +1,16 @@
 {
   "channelId": "UCQpAC3qn9g2jPInA3J-xAbQ",
   "source": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQpAC3qn9g2jPInA3J-xAbQ",
-  "updatedAt": "2026-07-25T11:02:33Z",
+  "updatedAt": "2026-07-26T11:14:10Z",
   "videos": [
+    {
+      "id": "UGI5YC5hn7M",
+      "title": "TACO BELL vs CHIPTOLE",
+      "published": "2026-07-26T07:28:44+00:00",
+      "publishedLabel": "Jul 26, 2026",
+      "thumbnail": "https://i2.ytimg.com/vi/UGI5YC5hn7M/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=UGI5YC5hn7M"
+    },
     {
       "id": "9W-VixOSHLo",
       "title": "RACE DAY IN THE KITCHEN BMW M4 v2",
@@ -114,14 +122,6 @@
       "publishedLabel": "May 20, 2026",
       "thumbnail": "https://i2.ytimg.com/vi/EWOSYBm9HJI/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=EWOSYBm9HJI"
-    },
-    {
-      "id": "1-lqlKKEiLE",
-      "title": "WhiskerWags Outtakes 2",
-      "published": "2026-05-20T02:17:47+00:00",
-      "publishedLabel": "May 20, 2026",
-      "thumbnail": "https://i2.ytimg.com/vi/1-lqlKKEiLE/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=1-lqlKKEiLE"
     }
   ]
 }
