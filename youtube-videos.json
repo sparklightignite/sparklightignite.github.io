@@ -1,8 +1,16 @@
 {
   "channelId": "UCQpAC3qn9g2jPInA3J-xAbQ",
   "source": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQpAC3qn9g2jPInA3J-xAbQ",
-  "updatedAt": "2026-08-02T11:11:21Z",
+  "updatedAt": "2026-08-02T19:13:23Z",
   "videos": [
+    {
+      "id": "vhJmytFGtYc",
+      "title": "Shark Attack Miami South Beach  #sharkattack #sharktank #southbeachmiami",
+      "published": "2026-08-02T11:12:51+00:00",
+      "publishedLabel": "Aug 2, 2026",
+      "thumbnail": "https://i3.ytimg.com/vi/vhJmytFGtYc/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=vhJmytFGtYc"
+    },
     {
       "id": "UGI5YC5hn7M",
       "title": "TACO BELL vs CHIPOTLE",
@@ -114,14 +122,6 @@
       "publishedLabel": "Jun 10, 2026",
       "thumbnail": "https://i4.ytimg.com/vi/kZdnTp-m8zE/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=kZdnTp-m8zE"
-    },
-    {
-      "id": "EWOSYBm9HJI",
-      "title": "BBQ & Surfing On Spec",
-      "published": "2026-05-20T23:30:04+00:00",
-      "publishedLabel": "May 20, 2026",
-      "thumbnail": "https://i2.ytimg.com/vi/EWOSYBm9HJI/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=EWOSYBm9HJI"
     }
   ]
 }
