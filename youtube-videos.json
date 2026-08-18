@@ -1,8 +1,16 @@
 {
   "channelId": "UCQpAC3qn9g2jPInA3J-xAbQ",
   "source": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQpAC3qn9g2jPInA3J-xAbQ",
-  "updatedAt": "2026-08-17T10:23:15Z",
+  "updatedAt": "2026-08-18T10:18:48Z",
   "videos": [
+    {
+      "id": "Ks5IqFoH-8c",
+      "title": "Ninja VS Samurai Blade Runner Scene",
+      "published": "2026-08-18T03:38:22+00:00",
+      "publishedLabel": "Aug 18, 2026",
+      "thumbnail": "https://i4.ytimg.com/vi/Ks5IqFoH-8c/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=Ks5IqFoH-8c"
+    },
     {
       "id": "BbNRhLNrfp8",
       "title": "Snake Captures Bikini Girls",
@@ -114,14 +122,6 @@
       "publishedLabel": "Aug 7, 2026",
       "thumbnail": "https://i3.ytimg.com/vi/6kZxH7jEu_4/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=6kZxH7jEu_4"
-    },
-    {
-      "id": "tT0lmK4o9jc",
-      "title": "enormous ocean creature drives its armored fist at 2 large cruise ships",
-      "published": "2026-08-06T05:32:12+00:00",
-      "publishedLabel": "Aug 6, 2026",
-      "thumbnail": "https://i1.ytimg.com/vi/tT0lmK4o9jc/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=tT0lmK4o9jc"
     }
   ]
 }
