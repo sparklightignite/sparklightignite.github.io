@@ -1,8 +1,16 @@
 {
   "channelId": "UCQpAC3qn9g2jPInA3J-xAbQ",
   "source": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQpAC3qn9g2jPInA3J-xAbQ",
-  "updatedAt": "2026-08-24T10:29:01Z",
+  "updatedAt": "2026-08-25T10:22:32Z",
   "videos": [
+    {
+      "id": "9Cvug27Mk9U",
+      "title": "Dodgeball: Trash Mayhem - Only The Strong Survive",
+      "published": "2026-08-25T05:07:20+00:00",
+      "publishedLabel": "Aug 25, 2026",
+      "thumbnail": "https://i2.ytimg.com/vi/9Cvug27Mk9U/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=9Cvug27Mk9U"
+    },
     {
       "id": "Ks5IqFoH-8c",
       "title": "Ninja VS Samurai Blade Runner Scene",
@@ -114,14 +122,6 @@
       "publishedLabel": "Aug 14, 2026",
       "thumbnail": "https://i3.ytimg.com/vi/niNmJfdFZwc/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=niNmJfdFZwc"
-    },
-    {
-      "id": "6kZxH7jEu_4",
-      "title": "Seaplane Landing - Tropical Locations Steel Drums",
-      "published": "2026-08-07T15:10:03+00:00",
-      "publishedLabel": "Aug 7, 2026",
-      "thumbnail": "https://i3.ytimg.com/vi/6kZxH7jEu_4/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=6kZxH7jEu_4"
     }
   ]
 }
