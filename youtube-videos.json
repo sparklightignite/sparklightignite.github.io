@@ -1,8 +1,16 @@
 {
   "channelId": "UCQpAC3qn9g2jPInA3J-xAbQ",
   "source": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQpAC3qn9g2jPInA3J-xAbQ",
-  "updatedAt": "2026-09-13T13:59:27Z",
+  "updatedAt": "2026-09-14T16:04:27Z",
   "videos": [
+    {
+      "id": "kox0hvDQLHc",
+      "title": "Alpine Race",
+      "published": "2026-09-14T03:16:22+00:00",
+      "publishedLabel": "Sep 14, 2026",
+      "thumbnail": "https://i4.ytimg.com/vi/kox0hvDQLHc/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=kox0hvDQLHc"
+    },
     {
       "id": "oEcsjyIT46k",
       "title": "Live Assembly and Racing - Motorcycle",
@@ -114,14 +122,6 @@
       "publishedLabel": "Jun 22, 2026",
       "thumbnail": "https://i2.ytimg.com/vi/E11BSFD42bA/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=E11BSFD42bA"
-    },
-    {
-      "id": "8rEGGOnJEzQ",
-      "title": "WhiskerWags Way Back PlayBack - Dance Along",
-      "published": "2026-06-22T06:17:58+00:00",
-      "publishedLabel": "Jun 22, 2026",
-      "thumbnail": "https://i1.ytimg.com/vi/8rEGGOnJEzQ/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=8rEGGOnJEzQ"
     }
   ]
 }
